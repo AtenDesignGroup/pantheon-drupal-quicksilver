@@ -1,11 +1,15 @@
 {
-  "name": "pantheon-quicksilver/quicksilver-template",
+  "name": "Pr0ject-X/pantheon-drupal-quicksilver",
   "description": "A template for creating new Quicksilver scripts installed via Composer.",
-  "homepage": "https://github.com/pantheon-quicksilver/quicksilver-template",
-  "authors": [],
   "type": "quicksilver-script",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Travis Tomka",
+      "email": "underoathosx@gmail.com"
+    }
+  ],
   "require": {
     "composer/installers": "~1.0"
-  },
-  "license": "MIT"
+  }
 }

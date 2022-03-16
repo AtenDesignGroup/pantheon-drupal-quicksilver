@@ -1,6 +1,4 @@
-# Quicksilver Template
-
-This is template for new Quicksilver projects to utilize so that Quicksilver scripts can be installed through Composer.
+# Pantheon Drupal Quicksilver Scripts
 
 ## Requirements
 
@@ -48,5 +46,5 @@ workflows:
     after:
       - type: webphp
         description: Run Quicksilver script
-        script: private/scripts/quicksilver/pantheon-quicksilver/quicksilver-template.php
+        script: private/scripts/quicksilver/pantheon-quicksilver/standard-refresh.php
 ```
