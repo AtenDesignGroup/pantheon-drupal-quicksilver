@@ -1,5 +1,5 @@
 {
-  "name": "pr0ject-x/pantheon-drupal-quicksilver",
+  "name": "aten/pantheon-drupal-quicksilver",
   "description": "A template for creating new Quicksilver scripts installed via Composer.",
   "type": "quicksilver-script",
   "license": "MIT",
@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "~2.0"
   }
 }
